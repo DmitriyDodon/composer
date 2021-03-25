@@ -8,4 +8,10 @@ SPOTIFY_OAUTH_CLIENT_ID = "cdc7fadc47374f63944e2bd1b167bf86"<br>
 SPOTIFY_OAUTH_REDIRECT_URI = "http://sandbox.tv/oauth/spotify/callback"<br>
 SPOTIFY_OAUTH_CLIENT_SECRET = "6cf2d85d5e1345b48b34826ac8b8aa3f"<br>
 IPSTACK_ACCESS_KEY = "4890391820b1539d321a75b4593b2649"
+
+Подключаю<br>
+<code>
+     "dmitriy/geo": "^1.0",<Br>
+     "dmitriyodessa/ua": "^1.0"
+</code>   
 </i>
