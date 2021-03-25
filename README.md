@@ -11,7 +11,7 @@ IPSTACK_ACCESS_KEY = "4890391820b1539d321a75b4593b2649"
 
 Подключаю<br>
 <code>
-     "dmitriy/geo": "^1.0",<br>
+     "dmitriy/geo": "^1.0",<Br>
      "dmitriyodessa/ua": "^1.0"
 </code>
 </i>
