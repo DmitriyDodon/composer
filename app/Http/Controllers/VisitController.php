@@ -4,8 +4,9 @@ namespace App\Http\Controllers;
 
 use App\Models\Visit;
 
-use App\Service\UserAgent\UserAgentInterface;
+
 use Dmitriy\Geo\GeoServiceInteface;
+use Dmitriy\Ua\UserAgentInterface;
 use Illuminate\Http\RedirectResponse;
 use Illuminate\Http\Request;
 
