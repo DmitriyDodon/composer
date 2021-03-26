@@ -14,7 +14,10 @@
         "guzzlehttp/guzzle": "^7.0.1",
         "laravel/framework": "^8.12",
         "laravel/tinker": "^2.5",
-        "dmitriy/geo": "^1.0",
+
+        "dmitriy/geo": "master-dev",
+
+
         "dmitriyodessa/ua": "^1.0"
     },
     "require-dev": {
@@ -65,7 +68,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/DmitriyDodon/geo"
+            "url": "https://github.com/DmitriyDodon/GeoInterface"
         }
     ]
 }
